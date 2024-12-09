@@ -1,2 +1,1 @@
-# ProsjektOppgave2
-Nytt repo
+# Prosjektoppgave
